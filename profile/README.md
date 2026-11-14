@@ -46,6 +46,14 @@
   <tr><td align="right"><b>¼&nbsp;s</b></td><td>from launch to ready</td></tr>
 </table>
 
+### Works with flock
+
+<a href="https://theflock.sh"><img src="https://github.com/wink-browser/.github/raw/main/profile/flock.png" alt="flock" width="48" align="left"></a>
+
+[flock](https://theflock.sh) runs many coding agents side by side; Wink is where they check their work. Each flock agent shows up in Wink under its own name and project, and flock shows the page it has open on its thread.
+
+<br clear="left">
+
 ### Get involved
 
 Bug reports, ideas and pull requests are welcome: start with [CONTRIBUTING.md](https://github.com/wink-browser/wink/blob/main/CONTRIBUTING.md) and the [open issues](https://github.com/wink-browser/wink/issues). Report security problems privately, through a [security advisory](https://github.com/wink-browser/wink/security/advisories/new).
